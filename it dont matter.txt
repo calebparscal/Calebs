@@ -1,0 +1,35 @@
+<!doctype html>
+<html dir="[direction]" lang="[language]" class="[class names]">
+	<head>
+		<title>FAQ</title>
+	</head>
+	<body>
+		<h4><strong>What is the definition of project management?</strong></h4>
+			<h5> Project management is the use of specific knowledge, skills, tools, and techniques to deliver something of value to people. </h5>
+ 		<h4><strong>What is including in defining the project?</strong></h4>
+			<h5>The steps involved in defining the project scope include scope planning, scope definition, scope documentation, and scope change management.</h5>
+		<h4><strong>What activities need to be done to plan the project?</strong></h4>
+			<h5>	1.Define the critical factors for success
+				2.Focus on subtasks
+				3.Create best- and worst-case scenarios
+				4.Ask task owners to provide process outlines and specs
+				5.Hold brainstorming sessions
+				6.Get visual
+				7.Use project management software</h5>
+		<h4><strong>What are the requirements for completing the project?</strong></h4>
+			<h5>The requirements for completing the project are met when all acceptance criteria have been met, the stakeholders are satisfied, and business objectives have been fulfilled.</h5>
+		<h4><strong>When are the assignments made to the project?</strong></h4>
+ 			<h5>The beginning</h5>
+		<h4><strong>How can the project be controlled?</strong></h4>
+ 			<h5>	Aligning projects with portfolio/organization goals and objectives
+				Developing a work-breakdown structure (WBS)
+				Collaborating on initial project schedules
+				Developing a risk management plan
+				Project budgeting and forecasting
+				Monitoring project costs
+				Feedback and reporting
+				Optimizing project strategies to enable better outcomes in the future</h5>
+		<h4><strong>What happens during the closing of the project?</strong></h4>
+			<h5>Obtain acceptance of the project deliverables. Hand off operations and support responsibilities. Document the lessons learned over the course of the project. Formalize closure.</h5>
+	</body>
+</html>
